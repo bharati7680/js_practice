@@ -7,7 +7,7 @@
 
 "use Strict" // treat all JS code as newer version
 
-alert(3-1) // using Node.js, not browser
+//alert(3-1) // using Node.js, not browser
 
 //Primitave data Types
 
