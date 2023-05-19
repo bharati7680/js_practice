@@ -20,11 +20,11 @@ let booleanIsLoggedIn = Boolean(isLoggedIn)
 // 1 => true   0 => false
 // "" => false  "Bharati" => true
 
-let string = 33
+let someNumber = 33
 
-let stringInNumber = String(string)
-// console.log(stringInNumber);
-// console.log(typeof stringInNumber);
+let stringNumber = String(someNumber)
+// console.log(stringNumber);
+// console.log(typeof stringNumber);
 
 //  *****************************Operations**********************************
 
@@ -39,6 +39,24 @@ let negValue = -value
 // console.log(6%2);
 // console.log(2**3);
 
+
+let str1 = "Hello"
+let str2 = " Bharati"
+let str3 = str1 + str2
+// console.log(str3);
+
+// console.log(1 + "2");
+// console.log("1" + 2);
+// console.log(1 + "2"+ 3);
+// console.log(1 + 2 + "3");
+// console.log("1" + 2 + 3);
+
+console.log(true);
+
+let gameCounter = 100
+// gameCounter++
+++gameCounter
+console.log(gameCounter);
 
 
 
